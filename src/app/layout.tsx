@@ -16,7 +16,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className="dark container m-auto grid min-h-screen grid-rows-[auto,1fr,auto] px-4 font-sans antialiased">
+      <body className="dark container m-auto grid min-h-screen grid-rows-[auto,1fr,auto] px-4">
         <header className="text-xl font-bold leading-[4rem]">
           <Link href="/">next-ts-tw</Link>
         </header>
